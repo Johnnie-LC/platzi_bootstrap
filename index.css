@@ -10,7 +10,7 @@
   background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5372);
 }
 #footer a {
-  colo: white;
+  color: white;
 }
 #header img {
   width: 80px;
@@ -21,6 +21,7 @@
 
 #main .carousel-inner img {
   max-height: 70vh;
+  min-height: 374px;
   /* estira y hace un pequeño zoom */
   object-fit: cover;
   /* escala de grises al 70% */
